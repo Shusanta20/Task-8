@@ -11,7 +11,7 @@ Understand the role of VPNs in protecting privacy and ensuring secure communicat
    - Signed up for a free account on ProtonVPN
 
 2. **Download & Install Client:**  
-   - Downloaded VPN client from ProtonVPN official website and installed it.
+   - Downloaded ProtonVPN from official website and installed it.
 
 3. **Connect to VPN Server:**  
    - Logged in, selected a server, and connected.
